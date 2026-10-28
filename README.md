@@ -22,8 +22,9 @@ A clean, from-scratch implementation of a single-neuron Perceptron using Python 
 
 Make sure you have Python installed along with the required libraries:
 
-bash
-pip install numpy matplotlib scikit-learn
+```bash
+pip install numpy matplotlib scikit-learn```
+```
 
 Running the Code
  ```Clone the repository and open the Jupyter Notebook or run the script:
